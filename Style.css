@@ -1,0 +1,114 @@
+#Header1 {
+    color: orangered;
+    border-color: hotpink;
+    border-style: ridge;
+    border-width: 10px;
+    text-align: justify;
+    padding-left: 10px;
+}
+
+#P {
+    color: blue;
+    text-size-adjust: 50px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: palegreen;
+}
+
+
+
+#AboutMe {
+    color: lightseagreen;
+    border-color: hotpink;
+    border-style: ridge;
+    border-width: 10px;
+}
+
+#Me1 {
+    color: red;
+    text-size-adjust: 50px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: palegreen;
+}
+
+#Game1P {
+    color: orchid;
+    text-size-adjust: 50px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: palegreen;
+}
+
+#Game2P {
+    color: goldenrod;
+    text-size-adjust: 50px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: palegreen;
+}
+
+#Game3P {
+    color: darkblue;
+    text-size-adjust: 50px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: palegreen;
+}
+
+#Game4P {
+    color: red;
+    text-size-adjust: 50px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: palegreen;
+}
+
+#Game5P {
+    color: chocolate;
+    text-size-adjust: 50px;
+    border-style: solid;
+    border-width: 7px;
+    border-color: palegreen;
+}
+
+
+
+img {
+    border-color: black;
+    border-style: solid;
+}
+
+#Game1Head {
+    color: green;
+    border-color: hotpink;
+    border-style: ridge;
+    border-width: 10px;
+}
+#Game2Head {
+    color: blue;
+    border-color: hotpink;
+    border-style: ridge;
+    border-width: 10px;
+}
+
+#Game3Head {
+    color: brown;
+    border-color: hotpink;
+    border-style: ridge;
+    border-width: 10px;
+}
+
+#Game4Head {
+    color:orange;
+    border-color: hotpink;
+    border-style: ridge;
+    border-width: 10px;
+}
+
+#Game5Head {
+    color: darkblue;
+    border-color: hotpink;
+    border-style: ridge;
+    border-width: 10px;
+}
